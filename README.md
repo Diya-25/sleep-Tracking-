@@ -7,7 +7,7 @@ Member 1:
 https://developers.google.com/profile/u/103589418110568081762
 
 Member 2:
-https://developers.google.com/profile/u/113041894553982673920/edit
+https://developers.google.com/profile/u/113041894553982673920
 
 Member 3: 
 https://developers.google.com/profile/u/114322957185076198218
